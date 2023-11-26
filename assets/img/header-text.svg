@@ -1,0 +1,20 @@
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        width="96px" height="40px">
+    <defs>
+        <linearGradient id="PSgrad_0" x1="99.985%" x2="0%" y1="1.745%" y2="0%">
+            <stop offset="0%" stop-color="rgb(242,72,67)" stop-opacity="1" />
+            <stop offset="0%" stop-color="rgb(142,34,48)" stop-opacity="1" />
+            <stop offset="46%" stop-color="rgb(226,41,43)" stop-opacity="1" />
+            <stop offset="100%" stop-color="rgb(186,35,43)" stop-opacity="1" />
+        </linearGradient>
+
+    </defs>
+    <text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" transform="matrix( 1.36861490263158, 0, 0, 1.36861490263158,16.3204285688854, 16.6785965116566)" font-size="11.691px"> <tspan><tspan font-size="11.691px" font-family="Akrobat" fill="#DB1F23">&#1056;&#1072;&#1073;&#1086;&#1090;&#1072;&#1077;&#1084;</tspan><tspan x="0" dy="1.2em">&#1089;&#32;&#50;&#48;&#49;&#48;&#32;&#1075;&#1086;&#1076;&#1072;</tspan><tspan font-size="11.691px" font-family="Akrobat" fill="#DB1F23">&#1056;&#1072;&#1073;&#1086;&#1090;&#1072;&#1077;&#1084;</tspan><tspan x="0" dy="1.2em">&#1089;&#32;&#50;&#48;&#49;&#48;&#32;&#1075;&#1086;&#1076;&#1072;</tspan> </tspan>
+    </text>
+    <text kerning="auto" font-family="Myriad Pro" fill="url(#PSgrad_0)" transform="matrix( 1.36861490263158, 0, 0, 1.36861490263158,16.3204285688854, 16.6785965116566)" font-size="11.691px"> <tspan><tspan font-size="11.691px" font-family="Akrobat" fill="#DB1F23">&#1056;&#1072;&#1073;&#1086;&#1090;&#1072;&#1077;&#1084;</tspan><tspan x="0" dy="1.2em">&#1089;&#32;&#50;&#48;&#49;&#48;&#32;&#1075;&#1086;&#1076;&#1072;</tspan><tspan font-size="11.691px" font-family="Akrobat" fill="#DB1F23">&#1056;&#1072;&#1073;&#1086;&#1090;&#1072;&#1077;&#1084;</tspan><tspan x="0" dy="1.2em">&#1089;&#32;&#50;&#48;&#49;&#48;&#32;&#1075;&#1086;&#1076;&#1072;</tspan> </tspan>
+    </text>
+    <path fill-rule="evenodd"  fill="rgb(221, 221, 221)"
+          d="M-0.000,-0.001 L0.1000,-0.001 L0.1000,36.1000 L-0.000,36.1000 L-0.000,-0.001 Z"/>
+</svg>
